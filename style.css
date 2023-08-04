@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.main {
+    text-align: center;
+    margin: 20px;
+
+}
+
+
+h4 {
+    color: black;
+    letter-spacing: 2px;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#btn {
+    margin-left: 10px;
+    padding: 2.5px 5px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: skyblue;
+    letter-spacing: 1px;
+}
+
+.para {
+    max-width: 1000px;
+    height: auto;
+    margin: 25px auto;
+    text-align: center;
+}
